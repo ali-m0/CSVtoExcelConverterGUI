@@ -25,7 +25,7 @@ To run this project, you'll need the following:
 
 First, install the required libraries using `pip`:
 
-```bash
+``bash
 pip install pandas openpyxl PyQt5
 
 ## Running the Application
